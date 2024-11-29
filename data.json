@@ -1,0 +1,17 @@
+[
+    {
+        "name" : "John Doe",
+        "age" : 36,
+        "location" : "California"
+    },
+    {
+        "name" : "Bob Charlie",
+        "age" : 28,
+        "location" : "Texas"
+    },
+    {
+        "name" : "Liz Canon",
+        "age" : 24,
+        "location" : "New York"
+    }
+]
