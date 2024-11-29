@@ -10,9 +10,10 @@ function fetchJSONData(){
             throw new Error(`HTTP error! Status : ${res.status}`)
         }
 
-        return res.json();
+        return res.json(); /* Converts JSON into a JS Object */
     })
     .then((data) => 
+        // Accessing data in the data object
     console.log(data))
 
     .catch((error) => 
